@@ -172,3 +172,8 @@ src/lib/                  session, WebRTC/media, signaling client, i18n, store
 docker-compose.yml        app + coturn
 ```
 
+
+## License
+
+MIT — see [LICENSE](LICENSE).
+
