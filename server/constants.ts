@@ -1,0 +1,15 @@
+export const HEARTBEAT_INTERVAL_MS = 25000
+export const JOIN_TIMEOUT_MS = 10000
+export const SHUTDOWN_GRACE_MS = 5000
+export const UPGRADE_RESPONSE_GRACE_MS = 2000
+export const MAX_PAYLOAD_BYTES = 64 * 1024
+export const MAX_SOCKETS_PER_IP = 20
+export const JOIN_LIMIT = 12
+export const JOIN_WINDOW_MS = 60000
+export const CHAT_LIMIT = 30
+export const CHAT_WINDOW_MS = 10000
+export const SIGNAL_LIMIT = 600
+export const SIGNAL_WINDOW_MS = 10000
+export const MEDIA_STATE_LIMIT = 60
+export const MEDIA_STATE_WINDOW_MS = 10000
+export const RATE_LIMIT_MAX_ENTRIES = 5000
